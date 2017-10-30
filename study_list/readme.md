@@ -1,6 +1,7 @@
 # Frontend Dev Article
 
 ## general
+ - [DeveloperList](http://frontendchecklist.com/)
  - [MDN - CORS](https://developer.mozilla.org/zh-TW/docs/Web/HTTP/Access_control_CORS)
 
 ## html
