@@ -3,6 +3,7 @@
 ## general
 
 ## html
+ - [Defer Async](http://n.sfs.tw/content/index/10323)
 
 ## javascript
 
