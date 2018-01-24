@@ -16,6 +16,9 @@
 
 ## react
 
+## rxjs
+[learn rx](https://www.learnrxjs.io/operators/combination/)
+
 ## interview
  - [LeetCode](https://skyyen999.gitbooks.io/-leetcode-with-javascript/content/questions/38md.html)
  
